@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  serviageag:
-    title: "Services"
+  services:
+    title: "Services2"
     text: "Lorem ipsum"
-    section: services
+    section: services2
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
