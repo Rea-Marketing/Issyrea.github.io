@@ -12,9 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Weymouth
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    text: Beachside Gallery
 
   services:
     title: "Services"
