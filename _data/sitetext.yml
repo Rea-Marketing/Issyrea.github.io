@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Weymouth
-    text: Beachside Gallery
+    text: <span style="color: black"> Beachside Gallery </span>
 
   services:
     title: "Services"
