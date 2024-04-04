@@ -11,8 +11,8 @@ caption:
 ---
 Kitchen and Living Room
 
-{:.list-inline}
-- Date: 
-- Client: 
-- Category: 
+#{:.list-inline}
+#- Date: 
+#- Client: 
+#- Category: 
 
