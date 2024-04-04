@@ -1,8 +1,8 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Kitchen and Living Room
+#subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/Kitchen-Livingroom.jpg
-alt: Shirts on a hanger
+alt: Kitchen and Living Room
 
 caption:
   title: Kitchen and Living Room
