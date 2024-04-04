@@ -5,7 +5,7 @@ image: assets/img/Kitchen-Livingroom.jpg
 alt: Kitchen and Living Room
 
 caption:
-  title: Kitchen and Living Room
+  title: 
   subtitle: 
   thumbnail: assets/img/Kitchen-Livingroom.jpg
 ---
