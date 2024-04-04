@@ -10,9 +10,3 @@ caption:
   thumbnail: assets/img/Kitchen-Livingroom.jpg
 ---
 Kitchen and Living Room
-
-#{:.list-inline}
-#- Date: 
-#- Client: 
-#- Category: 
-
