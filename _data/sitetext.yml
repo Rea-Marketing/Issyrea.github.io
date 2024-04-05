@@ -67,9 +67,14 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Apartments"
+    #text: "our story"
+    body: "This 2nd-floor apartment offers stunning views of Weymouth beach and the bay, perfect for those looking to stay right by the sea. From the moment you enter, the apartment offers direct views out to the ocean, creating a relaxing atmosphere for your holiday.
+The living space is open-plan, allowing you to enjoy the beautiful beach and seafront views whether you're cooking, dining, or just relaxing. The apartment features two bedrooms (sleeps four), a high-spec kitchen, and a modern bathroom, all designed with comfort and style in mind.
+Located just across the road from Weymouth’s famous sandy beach and Esplanade, you have easy access to its shallow waters and extensive beachfront. Enjoy walks along the beach all year round, with plenty of options for a drink or meal at the seafront cafes and bars.
+The Esplanade offers a selection of pubs, cocktail lounges, and bars, while Weymouth town centre, with its variety of shops and restaurants, is just a short walk away.
+Ideal for couples or small families, our Beachside Gallery apartment offers a fantastic base for exploring Weymouth and enjoying its beautiful beachfront location.
+There is no parking space on site. Guests can park up at the nearby M&S to unload and park at the Pavillon Theatre which is a 5 minute walk away."
     section: about
 
   clients:
