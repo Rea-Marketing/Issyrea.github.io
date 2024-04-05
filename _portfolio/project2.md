@@ -5,7 +5,7 @@ image: assets/img/Bedroom1.jpg
 alt: Bedroom One
 
 caption:
-  title: 
+  title: Bedroom One
   subtitle: 
   thumbnail: assets/img/Bedroom1.jpg
 ---
