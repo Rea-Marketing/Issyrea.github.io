@@ -10,7 +10,7 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  nav:
+  #nav:
     - title: "Services"
       section: services
     - title: "Portfolio"
