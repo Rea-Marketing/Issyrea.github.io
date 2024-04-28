@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Weymouth
-    text: Beachside Gallery
+    title: Seafront Holiday Home
+    text: Beachside Gallery Weymouth
 
   services:
     title: "Booking"
