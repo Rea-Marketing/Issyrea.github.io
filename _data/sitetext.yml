@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     list:
       - title: "[Booking.com](https://www.booking.com/hotel/gb/beachside-gallery-flat-weymouth.en-gb.html?label=gen173bo-1DCAsoUEIfYmVhY2hzaWRlLWdhbGxlcnktZmxhdC13ZXltb3V0aEgzWANoUIgBAZgBCbgBGMgBDNgBA-gBAYgCAZgCBqgCBLgCt7HAsAbAAgHSAiRlNWU2ZWQ4NC1kYWQ3LTRiMGUtODQ0Yi1mZjYzOGQyNDJmYmTYAgTgAgE&sid=95b4ae0672eedf284a5781c3349b091b&dist=0&keep_landing=1&sb_price_type=total&type=total&)"
         icon: fas fa-laptop
-        text: "![Book logo](/assets/img/Bedroom1.jpg)"
+        text: ![Book logo](/assets/img/Bedroom1.jpg)
       - title: "[Airbnb](https://www.airbnb.co.uk/rooms/1101588185363550127?search_mode=regular_search&check_in=2024-11-12&check_out=2024-11-16&source_impression_id=p3_1712331382_%2BAMPnZkUUw9ZVWoI&previous_page_section_name=1000&federated_search_id=5e083cf5-bfcf-433d-aabc-9620e9b24fb4)"
         icon: fas fa-laptop
       - title: "[Contact Me](https://rea-marketing.github.io/Issyrea.github.io/#contact)"
