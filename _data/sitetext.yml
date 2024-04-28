@@ -16,7 +16,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Booking"
-    image: assets/img/Kitchen-Livingroom.jpg
+<img src="assets/img/Kitchen-Livingroom.jpg" alt="">
     #text: "Lorem ipsum"
     section: services
     list:
